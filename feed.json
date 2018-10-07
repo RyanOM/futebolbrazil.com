@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://futebolbrazil.com/publii-is-an-awesome-cms/",
+            "url": "https://futebolbrazil.com/publii-is-an-awesome-cms/",
+            "title": "Publii is an awesome CMS",
+            "summary": "What is Lorem Ipsum?Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen&hellip;",
+            "content_html": "<div>\n<h2>What is Lorem Ipsum?</h2>\n<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>\n</div>\n<div>\n<h2>Why do we use it?</h2>\n<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>\n</div>\n<br>\n<div>\n<h2>Where does it come from?</h2>\n<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock</p>\n</div>",
+            "image": "https://futebolbrazil.com/media/posts/4/940x470.jpg",
+            "author": {
+                "name": "Ryan O&#x27;Mullan"
+            },
+            "tags": [
+                   "Brazil"
+            ],
+            "date_published": "2018-10-07T16:47:41-03:00",
+            "date_modified": "2018-10-07T16:48:15-03:00"
+        },
+        {
             "id": "https://futebolbrazil.com/industrialisation-protest-and-football/",
             "url": "https://futebolbrazil.com/industrialisation-protest-and-football/",
             "title": "Industrialisation, Protest and Football",
@@ -24,7 +40,7 @@
                    "Brazil"
             ],
             "date_published": "2018-10-04T09:16:47-03:00",
-            "date_modified": "2018-10-06T16:23:17-03:00"
+            "date_modified": "2018-10-07T16:42:30-03:00"
         }
     ]
 }
