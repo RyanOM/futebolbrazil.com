@@ -3,7 +3,7 @@
     <title>Futebol Brazil</title>
     <link href="https://futebolbrazil.com/feed.xml" rel="self" />
     <link href="https://futebolbrazil.com" />
-    <updated>2019-04-29T19:36:46-03:00</updated>
+    <updated>2019-04-29T19:40:24-03:00</updated>
     <author>
         <name>Ryan O&#x27;Mullan</name>
     </author>
@@ -16,8 +16,16 @@
         </author>
         <link href="https://futebolbrazil.com/brasileirao-2019-round-one/"/>
         <id>https://futebolbrazil.com/brasileirao-2019-round-one/</id>
+            <category term="Palmeiras"/>
+            <category term="Fluminense"/>
+            <category term="Flamengo"/>
+            <category term="Cruzeiro"/>
+            <category term="Corinthians"/>
+            <category term="Brasileirão"/>
+            <category term="Bahia"/>
+            <category term="Atletico Mineiro MG"/>
 
-        <updated>2019-04-29T19:36:04-03:00</updated>
+        <updated>2019-04-29T19:39:56-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://futebolbrazil.com/media/posts/30/cef97beb-8c0a-421b-a5b9-882511447d88.JPG" alt="" />
